@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 Welcome! I am a Ph.D. in Economics at the University of California-Irvine. My main research interests are in Bayesian Econometrics and Industrial Organization, in particular Bayesian discrete choice models, Bayesian treatment models and consumer demand estimation.
 
 
