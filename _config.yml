@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manyun Liu / Personal Homepage"
+title                    : "Manyun Liu/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Manyun Liu"
 description              : &description "personal description"
